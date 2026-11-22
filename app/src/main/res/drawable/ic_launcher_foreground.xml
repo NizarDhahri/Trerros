@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Soft golden lantern halo -->
+    <path
+        android:fillColor="#44FAD48B"
+        android:pathData="M54,28 A26,26 0 1,1 53.99,28 Z" />
+
+    <!-- Hanging ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FAF5E6"
+        android:strokeWidth="3"
+        android:pathData="M54,25 A4,4 0 1,1 53.99,25 Z" />
+
+    <!-- Lantern roof cap -->
+    <path
+        android:fillColor="#3E2F26"
+        android:pathData="M36,41 L54,30 L72,41 L69,44 L39,44 Z" />
+
+    <!-- Lantern glass body -->
+    <path
+        android:fillColor="#FFF5D9"
+        android:strokeColor="#3E2F26"
+        android:strokeWidth="2.8"
+        android:strokeLineJoin="round"
+        android:pathData="M41,44 L67,44 L63,70 L45,70 Z" />
+
+    <!-- Warm glowing flame -->
+    <path
+        android:fillColor="#F2994A"
+        android:pathData="M54,48 C58,53 60,57 59,61 C58,64 56,66 54,66 C52,66 50,64 49,61 C48,57 50,53 54,48 Z" />
+    <path
+        android:fillColor="#FFE599"
+        android:pathData="M54,53 C56,56 57,59 56.5,61.5 C56,63 55,64 54,64 C53,64 52,63 51.5,61.5 C51,59 52,56 54,53 Z" />
+
+    <!-- Lantern base -->
+    <path
+        android:fillColor="#3E2F26"
+        android:pathData="M42,70 L66,70 L69,75 L39,75 Z" />
+
+    <!-- Cozy sprout leaf beside base -->
+    <path
+        android:fillColor="#C6DA97"
+        android:strokeColor="#3E2F26"
+        android:strokeWidth="2.2"
+        android:strokeLineJoin="round"
+        android:pathData="M62,75 C64,67 71,62 77,64 C75,71 69,76 62,75 Z" />
+</vector>

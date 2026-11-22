@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Willowlight</string>
+    <string name="cd_audio_settings">Audio and atmosphere settings</string>
+    <string name="cd_sanctuary_journal">Sanctuary journal and glades</string>
+    <string name="cd_center_grove">Center view on hearth</string>
+    <string name="cd_close_dialog">Close</string>
+    <string name="cd_mute_music">Toggle music mute</string>
+    <string name="cd_mute_sfx">Toggle sound effects mute</string>
+</resources>

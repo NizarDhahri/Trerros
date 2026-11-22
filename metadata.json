@@ -1,0 +1,6 @@
+{
+  "name": "Willowlight",
+  "description": "A cozy hand-painted watercolor sanctuary game where you weave lantern light to restore quiet forest glades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
